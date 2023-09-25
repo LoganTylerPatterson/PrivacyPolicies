@@ -1,0 +1,28 @@
+Privacy Policy for Trim
+
+This Privacy Policy explains how Hut8Development collects, uses, maintains, and discloses information collected from users  of the Hut8Development application Trim.
+Information We Collect
+
+We do not collect or store any personal information from our users. The only data we retain are in-app purchase records to validate purchases for the user upon future installations.
+In-App Purchases
+
+Our App may offer in-app purchases. These are processed by Google Play Billing, and we do not have access to or store any payment information.
+How We Use Collected Information
+
+The in-app purchase records are solely used for validating purchases made by the user upon future installations of the App.
+Sharing Your Personal Information
+
+We do not sell, trade, or rent Users' personal identification information to others. We do not share or disclose any information to third parties.
+Changes to This Privacy Policy
+
+Hut8Development has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Your Acceptance of These Terms
+
+By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
+Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this App, please contact us at:
+
+hut8development@gmail.com
+
+This document was last updated on 09/25/2023.
